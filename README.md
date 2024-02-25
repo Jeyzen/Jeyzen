@@ -9,9 +9,11 @@ I'm a programmer. I enjoy learning and developing software using Python, focusin
 - **Production Deploy:** Nginx | Gunicorn | Docker
 - **Server Management:** WindowsServer | Ubuntu
 
-## Recents Projects 🐍
+## Recents Projects & Exercises 🐍
 
 - [**Python-Flask API**](https://github.com/Jeyzen/Python-Flask)
+
+- [**Solo-Python Exercises**](https://github.com/Jeyzen/Python-Colab/tree/main)
 
 ## Contact Me 🌐
 
