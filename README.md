@@ -32,11 +32,3 @@ I'm a programmer. I enjoy learning and developing software using Python, focusin
 
 <p align="center"> <img title="stats" alt="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyzen&layout=compact&theme=noctis_minimus"/> </p>
 <p align="center"> <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyzen&theme=dark&hide_border=true&stroke=f53b3b"/> </p>
-
-## You Support Me ?🌟
-
-If you find my content helpful and want to support my work, consider buying me a coffee:
-
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jeyzen)
-
-Thank you for visiting my profile, and happy coding! 😄
