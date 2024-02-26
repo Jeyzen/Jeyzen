@@ -1,15 +1,22 @@
-# Hello, I'm Jeyzen! 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yulian+Planas!;" />
+</h1>
 
 I'm a programmer. I enjoy learning and developing software using Python, focusing on Flask and Django, Automations with Selenium and Ethical Hacking.
 
  <p align="center"> I love connecting with fellow developers and learners. Feel free to reach out to me on these platforms: 
- 
- <p align="center"> 
-  <a href="https://www.linkedin.com/in/donyulian/"> <img src="https://custom-icon-badges.demolab.com/badge/-My%20LinkedIn-blue?style=for-the-badge&logoColor=white&logo=LinkedIn"/> 
-  <a href="mailto:yulianplanas@gmail.com"> <img src="https://custom-icon-badges.demolab.com/badge/-My%20Gmail-red?style=for-the-badge&logo=mention&logoColor=white"/> 
-  <a href="https://www.soyjeyzen.ar/"> <img src="https://custom-icon-badges.demolab.com/badge/-My%20Portfolio-purple?style=for-the-badge&logo=web&logoColor=white"/> 
-    <a/>  
- </p>
+
+ <div align="center"> 
+  <a href="mailto:yulianplanas@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/donyulian/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.soyjeyzen.ar/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 ## My Skills 💻
 
@@ -29,6 +36,8 @@ I'm a programmer. I enjoy learning and developing software using Python, focusin
   </p>
 
 ## Activity On GitHub
+<p align="center"> <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyzen&theme=dark&hide_border=true&stroke=f53b3b"/>  </p>
 
-<p align="center"> <img title="stats" alt="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyzen&layout=compact&theme=noctis_minimus"/> </p>
-<p align="center"> <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyzen&theme=dark&hide_border=true&stroke=f53b3b"/> </p>
+<p align="center"> <img title="stats" alt="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyzen&layout=compact&theme=noctis_minimus"/> <!-- noctis_minimus / react-->
+                   <img width=340 src="https://github-readme-stats-salesp07.vercel.app/api?username=Jeyzen&count_private=true&show_icons=true&theme=noctis_minimus&rank_icon=github&border_radius=10" alt="readme stats" /> </p>
+
