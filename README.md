@@ -25,7 +25,7 @@ I'm a programmer. I enjoy learning and developing software using Python, focusin
 - **Production Deploy:** Nginx | Gunicorn | Docker
 - **Server Management:** WindowsServer | Ubuntu
 
-<p align="center"> <a href="https://github.com/Jeyzen"><img src="https://skillicons.dev/icons?i=vscode,github,py,django,flask,selenium,docker,nginx,mysql"> </a> 
+<p align="center"> <a href="https://github.com/Jeyzen"><img src="https://skillicons.dev/icons?i=vscode,vim,github,git,py,django,flask,selenium,docker,nginx,mysql,linux"> </a> 
 </p>
 
 ## Recents Projects 🐍 
