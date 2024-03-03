@@ -18,7 +18,7 @@ I'm a programmer. I enjoy learning and developing software using Python, focusin
   </a>
 </div>
 
-## My Skills 💻
+## 💻 My Skills 
 
 - **Languages:** Python
 - **Frameworks:** Django | Flask | Selenium | SQLAlchemy
@@ -28,16 +28,17 @@ I'm a programmer. I enjoy learning and developing software using Python, focusin
 <p align="center"> <a href="https://github.com/Jeyzen"><img src="https://skillicons.dev/icons?i=vscode,vim,github,git,py,django,flask,selenium,docker,nginx,mysql,linux"> </a> 
 </p>
 
-## Recents Projects 🐍 
+## 📚 Recents Projects  
 
   <p align="left">
      <a href="https://github.com/Jeyzen/Python-Flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jeyzen&repo=Python-Flask&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
      <a href="https://github.com/Jeyzen/Python-Colab"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jeyzen&repo=Python-Colab&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
   </p>
 
-## Activity On GitHub
-<p align="center"> <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyzen&theme=dark&hide_border=true&stroke=f53b3b"/>  </p>
-
-<p align="center"> <img title="stats" alt="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyzen&layout=compact&theme=noctis_minimus"/> <!-- noctis_minimus / react-->
-                   <img width=340 src="https://github-readme-stats-salesp07.vercel.app/api?username=Jeyzen&count_private=true&show_icons=true&theme=noctis_minimus&rank_icon=github&border_radius=10" alt="readme stats" /> </p>
+## 📊 Activity On GitHub
+<p align="center">   
+    <img width=350 title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyzen&theme=dark&stroke=f53b3b&hide_border=true"/>  <!-- &hide_border=true &stroke=f53b3b-->
+    <img width=300 title="stats" alt="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyzen&layout=compact&theme=dark&stroke=f53b3&hide_border=true"/> <!-- noctis_minimus / react-->
+    <img width=330 title="stats" alt="streak" src="https://github-readme-stats-salesp07.vercel.app/api?username=Jeyzen&count_private=true&show_icons=true&theme=dark&stroke=f53b3&hide_border=true&rank_icon=github"/> 
+</p> <!-- &border_radius=10" alt="readme stats"-->
 
