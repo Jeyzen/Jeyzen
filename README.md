@@ -20,8 +20,9 @@ I'm a programmer. I enjoy learning and developing software using Python, focusin
 
 ## 💻 My Skills 
 
-- **Languages:** Python
-- **Frameworks:** Django | Flask | Selenium | SQLAlchemy
+- **Main Language:** Python
+- **Others:** SQL, Java
+- **Frameworks:** Django | Flask | Selenium
 - **Production Deploy:** Nginx | Gunicorn | Docker
 - **Server Management:** WindowsServer | Ubuntu
 
@@ -33,7 +34,9 @@ I'm a programmer. I enjoy learning and developing software using Python, focusin
   <p align="left">
      <a href="https://github.com/Jeyzen/Python-Flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jeyzen&repo=Python-Flask&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
      <a href="https://github.com/Jeyzen/Python-Basic"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jeyzen&repo=Python-Basic&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
+      <a href="https://github.com/Jeyzen/Python-Selenium"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jeyzen&repo=Python-Seleium&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
   </p>
+  
 
 ## 📊 Activity On GitHub
 <p align="center">   
