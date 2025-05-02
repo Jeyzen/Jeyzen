@@ -27,7 +27,7 @@ I'm a SysAdmin DevOps professional, with a passion for automation and software d
 - **Server Management:** Windows Server | Ubuntu Server
 - **Cloud Management:** GCP | AWS
 
-<p align="center"> <a href="https://github.com/Jeyzen"><img src="https://skillicons.dev/icons?i=vscode,vim,github,git,py,django,flask,selenium,docker,nginx,mysql,linux"> </a> 
+<p align="center"> <a href="https://github.com/Jeyzen"><img src="https://skillicons.dev/icons?i=linux,bash,windows,gcp,aws,vscode,vim,github,git,py,flask,selenium,docker,nginx,mysql"> </a> 
 </p>
 
 ## 📚 Recents Projects  
