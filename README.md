@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yulian+Planas!;" />
 </h1>
 
-I'm a programmer. I enjoy learning and developing software using Python, focusing on Flask and Django, Automations with Selenium and Ethical Hacking.
+I'm a SysAdmin DevOps professional, with a passion for automation and software development using Python. My expertise includes scripting with Bash and optimizing workflows with tools like Selenium. I also explore Ethical Hacking, enhancing security and resilience in IT environments.
 
  <p align="center"> I love connecting with fellow developers and learners. Feel free to reach out to me on these platforms: 
 
@@ -21,10 +21,11 @@ I'm a programmer. I enjoy learning and developing software using Python, focusin
 ## 💻 My Skills 
 
 - **Main Language:** Python
-- **Others:** SQL, Java
-- **Frameworks:** Django | Flask | Selenium
-- **Production Deploy:** Nginx | Gunicorn | Docker
-- **Server Management:** WindowsServer | Ubuntu
+- **Others:** Bash, SQL
+- **Frameworks:** Tkinter | Flask | Selenium
+- **Production Deploy:** Nginx | Gunicorn | |Cloudflare | Docker
+- **Server Management:** Windows Server | Ubuntu Server
+- **Cloud Management:** GCP | AWS
 
 <p align="center"> <a href="https://github.com/Jeyzen"><img src="https://skillicons.dev/icons?i=vscode,vim,github,git,py,django,flask,selenium,docker,nginx,mysql,linux"> </a> 
 </p>
